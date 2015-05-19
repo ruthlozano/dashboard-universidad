@@ -1,0 +1,59 @@
+.navbar-default {
+  background-color:#fff;
+  border-color: #e7e7e7;
+  border-bottom: 2px solid;
+}
+.navbar {
+   border-radius: 0px; 
+   margin-bottom: 0px;
+}
+a.navbar-brand {
+  font-size: 23px;
+}
+ul.nav.navbar-nav.navbar-right a {
+  font-size: 20px;
+}
+.escudo {
+  width: 36px;
+  margin-top: -7px;
+}
+ul.nav.navbar-nav a {
+  font-size: 25px;
+}
+.col-sm-1{
+  padding-left: 0px; 
+  padding-right: 0px;
+}
+.icon hr{
+  margin-top: 0px; 
+  margin-bottom: 0px; 
+  border: 0; 
+  border-top: 1px solid #C0B9B9;
+}
+.glyphicon {
+  position: relative;
+  top: 1px;
+  display: block;
+  text-align: center;
+  font-family: 'Glyphicons Halflings';
+  font-size: 35px;
+  color: black;
+}
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 23px 15px;
+  text-align: center;
+  color: gray;
+  font-size: 15px;
+}
+.nav-stacked > li + li {
+  margin-top: 2px;
+  margin-left: 0;
+  text-align: center;
+  padding: 23px;
+  color:gray;
+}
+.row{
+  margin-right:0px;
+}
