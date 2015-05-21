@@ -5521,6 +5521,10 @@ button.close {
 /*========================================
 =             APP CUSTOM                 =
 ========================================*/
+.espacio {
+  padding-bottom: 12%;
+  background-color: white; }
+
 h1,
 h2,
 h3,
@@ -5535,8 +5539,7 @@ span {
 
 .navbar-default {
   background-color: #fff;
-  border-color: #e7e7e7;
-  border-bottom: 2px solid; }
+  border-color: #e7e7e7; }
 
 .navbar {
   border-radius: 0px;
@@ -5577,7 +5580,7 @@ ul.nav.navbar-nav a {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 23px 15px;
+  padding: 23px 25px;
   text-align: center;
   color: gray;
   font-size: 15px; }
@@ -5586,10 +5589,152 @@ ul.nav.navbar-nav a {
   margin-top: 2px;
   margin-left: 0;
   text-align: center;
-  padding: 23px;
   color: gray; }
 
 .row {
-  margin-right: 0px; }
+  margin-right: 0px;
+  margin-left: 0px; }
+
+.barra .glyphicon {
+  padding-left: 34px;
+  padding: 16px 37px;
+  margin-bottom: -11px; }
+
+.principal {
+  border-bottom: 2px solid black; }
+
+.nav > li {
+  position: relative;
+  display: block;
+  text-align: center; }
+
+img.inicio {
+  width: 41px;
+  margin: 0 auto;
+  margin-left: 17px; }
+
+a.navbar-brand {
+  text-align: center; }
+
+.navbar {
+  border-radius: 0px;
+  margin-bottom: 0px;
+  position: fixed;
+  z-index: 10;
+  width: 100%; }
+
+img.logo {
+  width: 75px;
+  border-radius: 50%;
+  margin-top: 8px; }
+
+a.saludo {
+  font-size: 40px;
+  padding-top: 39px; }
+
+aside {
+  position: fixed;
+  top: 168px;
+  z-index: 10; }
+
+.container-fluid {
+  padding-left: 0px; }
+
+.nav-scroll hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0;
+  border-top: 1px solid #696363; }
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0;
+  border-top: 1px solid #eeeeee; }
+
+.gray {
+  background-color: gainsboro; }
+
+li.canbio {
+  background-color: white;
+  padding-bottom: 22px; }
+
+.color {
+  background-color: gainsboro; }
+
+aside {
+  background-color: white; }
+
+.cuadro1 {
+  padding-top: 221px; }
+
+.cuadro2 {
+  padding-top: 221px; }
+
+.cuadro3 {
+  padding-top: 221px; }
+
+.horario p {
+  font-size: 34px; }
+
+.parrafo p {
+  font-size: 34px; }
+
+.frase p {
+  font-size: 34px; }
+
+.black {
+  background-color: black;
+  color: white; }
+
+.red {
+  background-color: white; }
+
+.curso h5 {
+  font-size: 19px; }
+
+.medio h5 {
+  font-size: 19px;
+  text-align: center; }
+
+.blanco {
+  padding-bottom: 5px; }
+
+.red h5 {
+  font-size: 13px; }
+
+.cuadro4 {
+  padding-top: 38px; }
+
+.reservas p {
+  font-size: 34px; }
+
+.cuadro5 {
+  height: 300px; }
+
+.boleta {
+  background-color: white; }
+
+.hoja {
+  background-color: white; }
+
+.boleta img {
+  width: 34px;
+  margin-top: 13px;
+  text-align: center;
+  margin-left: 41px; }
+
+.hoja img {
+  width: 34px;
+  margin-top: 13px;
+  text-align: center;
+  margin-left: 41px; }
+
+.noticias {
+  font-size: 34px;
+  padding-top: 16px; }
+
+.aniersario {
+  background-color: white; }
 
 /*# sourceMappingURL=main.css.map */
